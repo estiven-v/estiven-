@@ -1,0 +1,2 @@
+NEXT_PUBLIC_API = http://api.ejemplo.com
+DATABASE_URL = postgres://user:password@host:3000/basedata
